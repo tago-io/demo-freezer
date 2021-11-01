@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "./out",
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "ES2017",
+    "lib": ["ES7"],
+    "allowJs": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true
+  }
+}
